@@ -1,10 +1,14 @@
 (Will be v4 and R5)
- goals are important to the success of your project, get those goals as well-defined as possible
--  goals need to be well-defined in order to help keep your project on track.
--  deliverables depend on your goals, it's in your best
+##  SMART goals 
+
+``get  goals as well-defined as possible ``
+
+Goals are important to the success of your project, because
+-  goals need to be well-defined in order to help keep your **project on track.**
+-  **deliverables depend on your goals**, it's in your best
 . 
 
-method: SMART goals 
+### Definition
 
 goals should be:
 -  specific
@@ -13,7 +17,8 @@ goals should be:
  -be relevant,
  -and be time-bound.
 
- ### specific
+ ### 1. specific
+ 
 > if your goal is not specific, you'll have trouble figuring out how long it should take to complete and whether or not
 you've accomplished it.
 >>For example, if the goal is simply to improve customer service response time, that's not very specific. It does tell you what you
@@ -49,49 +54,35 @@ Sometimes the success of a goal can be measured with a simple yes or no. Did you
 You will need to measure most of the goals you have with metrics. 
 
 #### Metrics,
-what you use to measure something like
-numbers or figures. For example, if your
-goal was to run a five kilometer race, then distance in
-kilometers is your metric. At Office Green, the project goal is to increase
-revenue by five percent. In this case, revenue
-is the metric. Lastly, consider
-benchmarks or points of reference to make sure you're
-choosing accurate metrics. For instance, if
-your overall goal is to increase revenue, you can look at last year's
-data as a benchmark for deciding how much to
-increase revenue this year. If last year's revenue
-increased by three percent, then an increase
-by five percent in a booming economy would be a reasonable
-goal for this year. Ok, so the goal is specific
-and measurable, but is it attainable? Can it reasonably be reached
-based on the metrics? Typically, you want goals that are a little challenging
-to encourage growth, otherwise, what's the
-point of the goal if nothing's going to change? However, you don't want it to be too extreme or you'll
-never reach it. You'll have failed before
-you even started. Aim to find a balance
-between the two extremes. For example, let's take
-the goal to run a 5K. Say you regularly run 2.5
-kilometers, three times a week. An attainable goal will
-be to go from running 2.5 kilometers to running five
-kilometers within four weeks. An unattainable goal might be earning first-place
-in the 5K. I mean, it could happen, but it's not likely, especially if you've
-never run a race before. But how can you
-know if a goal is attainable, if it's unfamiliar? A clue to helping
-you figure out if your goal is
-attainable, is to ask: how can it be accomplished? Break down the goal into smaller parts and see
-if it makes sense. Going from 2.5 kilometers
-to five kilometers over four weeks means
-increasing your distance by a little over half
-a kilometer each week. That's not so bad, use the same process on your
-Office Green project goal. Businesses usually conduct
-quarterly reviews. So let's assume that
-increase is expected to occur over the course of
-a year or four quarters. In order to meet the goal, you need to see an
-increase of at least 1.25 percent each quarter, seems pretty reasonable to me. What wouldn't be reasonable is setting a goal of increasing revenues by 50 percent
-or 100 percent, unless your research showed that business was improving
-that quickly. Your goal is specific,
-measurable, and attainable. Now let's see if it's relevant. In other words, does it make sense to try and
-reach this goal? Think about how the
+``What you use to measure``
+
+> example, if your goal was to run a five kilometer race, then distance in kilometers is your metric.
+>  At Office Green, the project goal is to increase revenue by five percent. In this case, revenue is the metric. 
+
+#### benchmarks or points of reference
+
+``to make sure you're choosing accurate metrics.``
+
+
+>For instance, if your overall goal is to increase revenue, you can look at last year's data as a benchmark for deciding how much to increase revenue this year. If last year's revenue increased by three percent, then an increase by five percent in a booming economy would be a reasonable goal for this year. 
+
+## attainable
+
+ `` Can it reasonably be reached based on the metrics?``
+ > You want goals that are a little challenging to encourage growth,( otherwise, what's the point of the goal if nothing's going to change?)However, you don't want it to be too extreme or you'll never reach it. You'll have failed before you even started. Aim to find a balance between the two extremes.
+
+>>For example, let's take the goal to run a 5K. Say you regularly run 2.5 kilometers, three times a week. An attainable goal will be to go from running 2.5 kilometers to running five kilometers within four weeks. An unattainable goal might be earning first-place in the 5K.  it could happen, but it's not likely, 
+
+ - how can you know if a goal is attainable, if it's unfamiliar? A clue to helping you figure out if your goal is attainable, is to ask: how can it be accomplished? Break down the goal into smaller parts and see if it makes sense. 
+ > Going from 2.5 kilometers to five kilometers over four weeks means increasing your distance by a little over half a kilometer each week. That's not so bad, use the same process on your Office Green project goal. Businesses usually conduct quarterly reviews. 
+ > So let's assume that increase is expected to occur over the course of a year or four quarters. In order to meet the goal, you need to see an increase of at least 1.25 percent each quarter, seems pretty reasonable to me. What wouldn't be reasonable is setting a goal of increasing revenues by 50 percent
+or 100 percent, unless your research showed that business was improving that quickly. 
+
+### relevant. 
+
+``In other words, does it make sense to try and reach this goal? ``
+
+Think about how the
 goal lines up with other goals,
 priorities and values. Ask whether the goal
 seems worthwhile. Does the effort involved
