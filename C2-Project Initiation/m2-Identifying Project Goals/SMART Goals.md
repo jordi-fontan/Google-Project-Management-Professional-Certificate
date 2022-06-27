@@ -75,47 +75,49 @@ You will need to measure most of the goals you have with metrics.
 
  - how can you know if a goal is attainable, if it's unfamiliar? A clue to helping you figure out if your goal is attainable, is to ask: how can it be accomplished? Break down the goal into smaller parts and see if it makes sense. 
  > Going from 2.5 kilometers to five kilometers over four weeks means increasing your distance by a little over half a kilometer each week. That's not so bad, use the same process on your Office Green project goal. Businesses usually conduct quarterly reviews. 
- > So let's assume that increase is expected to occur over the course of a year or four quarters. In order to meet the goal, you need to see an increase of at least 1.25 percent each quarter, seems pretty reasonable to me. What wouldn't be reasonable is setting a goal of increasing revenues by 50 percent
+ >> So let's assume that increase is expected to occur over the course of a year or four quarters. In order to meet the goal, you need to see an increase of at least 1.25 percent each quarter, seems pretty reasonable to me. What wouldn't be reasonable is setting a goal of increasing revenues by 50 percent
 or 100 percent, unless your research showed that business was improving that quickly. 
 
 ### relevant. 
 
 ``In other words, does it make sense to try and reach this goal? ``
 
-Think about how the
-goal lines up with other goals,
-priorities and values. Ask whether the goal
-seems worthwhile. Does the effort involved
-balance out the benefits? Does it match your
-organizations' other needs and priorities? Everyone, from the
-client, the project team, and the people who
-will ultimately use the product, need to feel like the goal is
-worth supporting. Also, consider the timing. Both the amount of time
-the project will take, as well as the larger
-economic and social contexts can have big impacts. There might be a budget to
-complete the project now, but will the company be able to sustain the project over time? Is there an audience that
-will continue to use the product or service
-once it's delivered? Once you've got the answers
-to these questions, you should have a clear goal
-to help steer the project. If you still don't
-feel confident about the project's goals,
-keep digging. It's okay to ask questions
-if you have doubts. Communicate your concerns with the project senior
-stakeholders and your direct supervisor
-if you have one. They should be able to address
-some of your concerns so that you can feel confident
-about moving forward. If you're feeling good about the project being
-relevant and attainable, and you've made sure
-it's measurable, and has the specifics to keep
-you and your team focused the final item on the checklist is to make sure it's time-bound. Time-bound means your
-goal has a deadline. Deadlines give you a way
-to track your progress, otherwise, you may never reach your goal or never
-even get started. Time and metrics often
-go hand in hand, because time can also
-be used as a metric. Making your goal time-bound
-gives you a way to break down how much needs to
-be accomplished over time. For example, if you need to increase revenues by
-the end of the year, you can break down how much you need to increase each quarter, month, and week, and
-there you have it. Specific, measurable,
-attainable, relevant, and time-bound: a nearly foolproof method to create
-an evaluate project goals. You know what they say, work smarter, not harder. As we continue in this module, you'll learn about project scope and see how having clear goals supports all other decisions that come up during a project.
+Think about how the goal lines up with 
+- other goals,
+- priorities 
+- and values. 
+- Ask whether the goal seems worthwhile. 
+- Does the effort involved balance out the benefits? 
+- Does it match your organizations' other needs and priorities?
+
+
+1. Everyone need to feel like the goal is worth supporting.  
+
+  - from the client, 
+  - the project team, 
+  - and the people who will ultimately use the product, 
+  - 
+2. Also, consider the timing. 
+  -  Both the amount of time the project will take,
+  -   as well as the larger economic and social contexts can have big impacts.
+  -   
+  -     There might be a budget to complete the project now, but will the company be able to sustain the project over time? 
+  -     Is there an audience that will continue to use the product or service once it's delivered? 
+  -     Once you've got the answers to these questions, you should have a clear goal to help steer the project. 
+  -     If you still don't feel confident about the project's goals,keep digging. 
+  -     It's okay to ask questions if you have doubts. Communicate your concerns with the project senior stakeholders and your direct supervisor
+if you have one. They should be able to address some of your concerns so that you can feel confident about moving forward. 
+
+### time-bound.
+
+``Time-bound means your goal has a deadline. ``
+
+- Deadlines give you a way to track your progress, otherwise, you may never reach your goal or never even get started. 
+
+- Time and metrics often go hand in hand, because time can also be used as a metric. 
+- Making your goal time-bound gives you a way to break down how much needs to be accomplished over time. 
+
+> For example, if you need to increase revenues by the end of the year, you can break down how much you need to increase each quarter, month, and week, and
+there you have it. Specific, measurable,attainable, relevant, and time-bound: a nearly foolproof method to create an evaluate project goals.
+
+``You know what they say, work smarter, not harder. ``
