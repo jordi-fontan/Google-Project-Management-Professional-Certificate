@@ -49,30 +49,25 @@ You recently met with the project sponsor (the Director of Product) to discuss t
 To use the template for this course item, click the link below and select “Use Template.” 
 
 
-Link to template: Activity template: SMART project goals
-
-OR
-
-If you don’t have a Google account, you can download the template directly from the attachment below.
 
 
 #### Step 2: Revise the goals to be SMART
 
 The template contains the two additional project goals for Plant Pals, neither of which meets all the SMART criteria:
 
-“Office Green will boost brand awareness”
+        “Office Green will boost brand awareness”
 
-“Office Green will raise their customer retention rate”
+        “Office Green will raise their customer retention rate”
 
 Turn these two goals into SMART goals using the information from the scenario above. Write the revised goals next to SMART Goal One and SMART Goal Two. Your goals should be complete, but brief—one or two sentences is enough.
 
-For example, here is a goal that’s missing some of the SMART criteria:
+                    For example, here is a goal that’s missing some of the SMART criteria:
 
-“Office Green will soon create an app to help customers care for their plants.”
+                    “Office Green will soon create an app to help customers care for their plants.”
 
-That’s not a bad start, but it isn’t specific, measurable, or time-bound. Here’s the same goal, rewritten as a SMART goal:
+                    That’s not a bad start, but it isn’t specific, measurable, or time-bound. Here’s the same goal, rewritten as a SMART goal:
 
-“Office Green will create an app that offers tips and reminders to help customers care for their plants. The app will be completed within 18 months and be compatible with 100% of the types of plants Office Green sells.”
+                    “Office Green will create an app that offers tips and reminders to help customers care for their plants. The app will be completed within 18 months and be compatible with 100% of the types of plants Office Green sells.”
 
 #### Step 3: Explain what makes each goal SMART
 
