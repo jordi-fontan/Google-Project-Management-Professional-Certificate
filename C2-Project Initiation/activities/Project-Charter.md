@@ -1,29 +1,31 @@
-Activity Overview
-Line break
-Earlier in this course, you examined a sample charter for the Plant Pals project as a whole. For this exercise, you will create a new charter for an upcoming stage of the Plant Pals project. Be aware that most projects have a single charter to set expectations and keep stakeholders aligned. However, creating your own charter for the next stage of the project will give you a chance to practice what you’ve learned.
+# Activity Overview
 
-In this activity, you will fill out a partially-completed project charter. Keep in mind that project charters can differ significantly from project to project and company to company. However, most charters include some variation of the components described in this activity. No matter what form they take, charters lay out project goals, highlight benefits, and align stakeholders.
+> Earlier in this course, you examined a sample charter for the Plant Pals project as a whole. For this exercise, you will create a new charter for an upcoming stage of the Plant Pals project. Be aware that most projects have a single charter to set expectations and keep stakeholders aligned. However, creating your own charter for the next stage of the project will give you a chance to practice what you’ve learned.
+
+> In this activity, you will fill out a partially-completed project charter. Keep in mind that project charters can differ significantly from project to project and company to company. However, most charters include some variation of the components described in this activity. No matter what form they take, charters lay out project goals, highlight benefits, and align stakeholders.
 
 After you submit your work, review and respond to at least two of your classmates’ assignments.
 
-Scenario
-less 
-Review the scenario below. Then complete the step-by-step instructions.
+## Scenario
 
-Line break
-As the Plant Pals project manager, one of your responsibilities is building an Operations and Training plan for the new service. The creation and implementation of this plan marks a new stage of the Plant Pals project with its own set of goals and deliverables. Its main goal is to create sustainable fulfillment and delivery practices for the service’s day-to-day operations. Putting these processes in place is essential to making a launch of this size successful.
+- As the Plant Pals project manager, one of your responsibilities is ***building an Operations and Training plan for the new service***.  The creation and implementation of this plan marks a new stage of the Plant Pals project with its own set of goals and deliverables.
+- Its main goal is to create sustainable fulfillment and delivery practices for the service’s day-to-day operations. 
+- Putting these processes in place is essential to making a launch of this size successful.
 
-To meet this goal, your team will create internal processes and training procedures for support teams, so they can meet the demands of the Plant Pals service. These processes will help mitigate potential revenue losses due to late shipments and cancellations by ensuring an efficient, high-quality customer experience. By ensuring that Plant Pals runs smoothly, the plan also supports the larger project goal of a 5% revenue increase for Office Green.
+ - To meet this goal, your team will create internal processes and training procedures for support teams, so they can meet the demands of the Plant Pals service. 
+- These processes will help mitigate potential revenue losses due to late shipments and cancellations by ensuring an efficient, high-quality customer experience. By ensuring that Plant Pals runs smoothly, the plan also supports the larger project goal of a 5% revenue increase for Office Green.
 
-You estimate that it will take six months to fully implement all protocols, including setting up operational tools, putting delivery processes in place, and training employees. The Operations and Training plan should stay within a budget of $75,000.
+- You estimate that it will take six months to fully implement all protocols, including setting up operational tools, putting delivery processes in place, and training employees. The Operations and Training plan should stay within a budget of $75,000.
 
+
+### Milestones
 Some of the milestones your team must reach to complete this project include:
 
-Create a plant delivery and logistics plan to make the fulfillment process as efficient as possible. Your target is to deliver 95% of orders on time within one month of launch. Tasks include purchasing delivery trucks, hiring drivers, and calculating delivery fees. 
+1. Create a plant delivery and logistics plan to make the fulfillment process as efficient as possible. Your target is to deliver 95% of orders on time within one month of launch. Tasks include purchasing delivery trucks, hiring drivers, and calculating delivery fees. 
 
-Set up order processing and supply chain management software to make revenue streams more efficient. Your team must select, install, and maintain the software to ensure it continues to function properly. If it does, all orders should be packaged and ready for shipment within two business days of being placed. 
+2. Set up order processing and supply chain management software to make revenue streams more efficient. Your team must select, install, and maintain the software to ensure it continues to function properly. If it does, all orders should be packaged and ready for shipment within two business days of being placed. 
 
-Maintain excellent service standards by developing and launching an employee training program. You want to train 90% of employees before the official service launch. To reach this milestone, your team needs to create a communications plan, prepare training lessons, and schedule and conduct training sessions.
+3. Maintain excellent service standards by developing and launching an employee training program. You want to train 90% of employees before the official service launch. To reach this milestone, your team needs to create a communications plan, prepare training lessons, and schedule and conduct training sessions.
 
 Your first step is to create a charter to align your stakeholders and map out what your team needs to know to create and implement the plan.
 
