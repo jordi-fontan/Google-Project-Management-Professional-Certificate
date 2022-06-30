@@ -22,7 +22,7 @@
     - Help motivate ( push past what's easily achievable
     
     
-   #### 2.a Set your objectives
+    #### 2.a Set your objectives
    
    Objectives should be
    
@@ -36,7 +36,26 @@
      
         - Consider the vison you and your stakeholders have for the project
         - Determine what need to be done in 3-6 months.
-        
+     
+          #### 2.c Ask if each Objective is
+          
+          -   Helping achieve the project overall goal
+          -  Aligned with company / dept OKR
+          - Inspiring and motivational
+          - Achiving it will make a significant impact
+          
+          
+     
+     
+   #### 2.d Examples of Objectives
+     
+|     |    |
+|--- | --- |
+   | Build the most secure data security software  |  Provide top performance service  |
+   |  Continualy Improve web analytics | Increase market research 
+   | Make an universally available app | Achieve top sales among competitors in the region |
+  |  |  |   
+   
    
 ### 3. Some OKR'sCharacteristics
 
