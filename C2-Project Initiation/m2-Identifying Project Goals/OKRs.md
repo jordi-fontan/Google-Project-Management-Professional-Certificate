@@ -4,6 +4,8 @@
 
 `` OKR = OBJECTIVES + KEY RESULTS ``
 
+`` COMBINE A GOAL AND A METRIC TO DETERMINE A MEASURABLE OUTCOME``
+
 
 | Concept |  Def |
 | :--- |:---- |
@@ -12,7 +14,31 @@
 | Key Result Def | Mesurables outcomes than define when a objective is met |
 
 
-### 2. Characteristics
+### 2. OKR & PM
+
+    - Expand upon project goals
+    - Clarify deliverables
+    - Stablish Scope (reason to say no)
+    - Help motivate ( push past what's easily achievable
+    
+    
+   #### 2.a Set your objectives
+   
+   Objectives should be
+   
+        - Aspirational
+        -  Aligned with org goals
+        - Action oriented
+        - Concrete
+        - Significant
+    
+     #### 2.b Consider the vision
+     
+        - Consider the vison you and your stakeholders have for the project
+        - Determine what need to be done in 3-6 months.
+        
+   
+### 3. Some OKR'sCharacteristics
 
 1. OKRs take SMART goals further ***by combining GOAL+ METRIC*** to determine a mesurable outcome
 2. **Split diferent components of a sMART goal** and clrify even further (rather than group them in a single statement)
