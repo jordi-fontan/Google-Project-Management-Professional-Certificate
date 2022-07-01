@@ -70,11 +70,21 @@
 ### 5. KR & KPI
 
 | KPI | mesure the success of processes and avtivities not related to any task, i.e. ROI |
-| --- |
+| --- | --- |
+
+
+
 
 
 1. Based mostly in KPI for things already done.
 2. OKR for new project should be a bit more aggressive than those already achieved.
+
+
+Some tips, you should ask..
+
+    - What does success means
+    - What metrics would prove we have successfully achives the objective
+
 
 ### 6. KR Examples:
 
@@ -90,8 +100,20 @@
 - Specific & Time- Bound
 - Agressive yet realistic.
 
+### 8. Best Practices and further info: 
 
-### 5. Some OKR'sCharacteristics
+OKR vs SMART 
+OKR and PKI
+
+1. Obj = Motivational inspiring
+2. KR = tactical specific
+3.  2/3 KR per Obj
+4.  Documented and linked to proj.plan
+
+
+
+
+### 9. Some OKR'sCharacteristics
 
 1. OKRs take SMART goals further ***by combining GOAL+ METRIC*** to determine a mesurable outcome
 2. **Split diferent components of a sMART goal** and clrify even further (rather than group them in a single statement)
