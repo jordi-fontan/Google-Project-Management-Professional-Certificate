@@ -22,22 +22,22 @@
     - Help motivate ( push past what's easily achievable
     
     
-    #### 2.a Set your objectives
+ ### 3. Set your objectives
    
-   Objectives should be
+   #### a.Objectives should be
    
         - Aspirational
-        -  Aligned with org goals
+        - Aligned with org goals
         - Action oriented
         - Concrete
         - Significant
     
-     #### 2.b Consider the vision
+   #### b Consider the vision
      
         - Consider the vison you and your stakeholders have for the project
         - Determine what need to be done in 3-6 months.
      
-          #### 2.c Ask if each Objective is
+   #### c Ask if each Objective is
           
           -   Helping achieve the project overall goal
           -  Aligned with company / dept OKR
@@ -47,7 +47,7 @@
           
      
      
-   #### 2.d Examples of Objectives
+   #### d Examples of Objectives
      
 |     |    |
 |--- | --- |
@@ -57,7 +57,41 @@
   |  |  |   
    
    
-### 3. Some OKR'sCharacteristics
+### 4. Develop Key Results
+
+        1. 2-3 KR per Objective
+        2. Time Bound
+        3. Key Result can be used to 
+            - Imdicate amount of progress to achive in a shorter period
+            - Define if an objective have been met by the end of the period.
+        4. Should chanllenge/strech your team.
+        
+        
+### 5. KR & KPI
+
+| KPI | mesure the success of processes and avtivities not related to any task, i.e. ROI |
+| --- |
+
+
+1. Based mostly in KPI for things already done.
+2. OKR for new project should be a bit more aggressive than those already achieved.
+
+### 6. KR Examples:
+
+    - x% new sing-ups in firt quanter past launch
+    - Increment advertiser spend by x%
+    - New feature adoption is at least x%
+    - Maximum 2 crtical bugs are reported by cust per sprint
+
+### 7. Criteria:
+
+- Result oriented, is not a task.
+- Measurable & verificable
+- Specific & Time- Bound
+- Agressive yet realistic.
+
+
+### 5. Some OKR'sCharacteristics
 
 1. OKRs take SMART goals further ***by combining GOAL+ METRIC*** to determine a mesurable outcome
 2. **Split diferent components of a sMART goal** and clrify even further (rather than group them in a single statement)
