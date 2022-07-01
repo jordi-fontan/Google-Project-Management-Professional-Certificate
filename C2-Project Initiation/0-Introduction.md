@@ -3,12 +3,13 @@
 This program is rooted in the belive than a strong foundation in project management can help anyone start a great career as a PM.
 During this course, you'll learn all the steps for kicking off a project.
 
-> Initiation = phase that allows ideas to come together and form the beginnings of a plan
- 
- 1. First, we'll identify the ***individuals components of initiation***
-   1. Project Scope
-   2. Goals
-   3. Deliverables
+| ***Initiation*** = phase that allows ideas to come together and form the beginnings of a plan |
+| --- |
+
+ 1. First, we'll identify the *individuals components of initiation*
+   1. **Project Scope**
+   2. **Goals**
+   3. **Deliverables**
  
  2. Then we will learn how to ***measure the succes of a project.*** 
  3. Later, will talk about how ***identify stakeholders.*** Stkh have a direct interest in the porjecy's completion and succes.
