@@ -22,7 +22,7 @@ Because it is the first phase of the project, it's really important to get it ri
   
 A project 
 
-1. Begins after a problem or opportunity has been identified at an orgnization.  
+1. Begins after a problem or opportunity has been identified at an organization.  
 2. Often is initiatiated by a senior leader to address a specific business need.
       Examples of this are:
 
@@ -32,11 +32,12 @@ A project
 
 ### 1.1.2 The Project Manager Main Responsability
 
-As a Project Manager is your ***responsability*** to help identify, from the initial meetings with hts stakeholders:
+As a Project Manager is your ***responsability*** to help identify, from the initial meetings with the stakeholders:
 
 	- goals
 	- resources
 	- other details
+	
 and figure out all the important pieces that need to come together in order to get the work done.
 
 
@@ -56,7 +57,7 @@ Doing so, will help to solidify the Scope or boundary of the project.
 	+ Understimate project resources.(because project goals weren't understood)
 	+ Thinking project is done when stakeholders don't think so. (by not setting success criteria)
 
-> Proper initiation also helps ensure than benefits > Costs throught the Cost-Beneifit analysis	
+> Proper initiation also helps ensure than benefits outweighs Costs throught the Cost-Beneifit analysis	
 
 ### 1.1.5 Cost Benefit Analysis
 
